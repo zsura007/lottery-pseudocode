@@ -5,4 +5,4 @@ In-Class excercise:
 3. Limit the draw to a maximum of 6 draws. If the user entered a draw number
 >6, ask the user to resubmit a number, which must be <=6.
 4. Use try and except loop to avoid user input error
-
+User can also throw a dice to get a number
